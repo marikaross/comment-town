@@ -1,0 +1,15 @@
+p {
+  font-size: 20px
+
+}
+
+.depth-0 {
+  color: cyan;
+  background-color: magenta;
+}
+
+.depth-1 {
+  color: peru;
+  background-color: chartreuse;
+  margin-left: 10px;
+}

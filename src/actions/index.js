@@ -14,3 +14,7 @@
 //   return type: 'TOGGLE_RECEIVE',
 //   id
 // }
+
+export const deleteComment = (id) => {
+
+}
