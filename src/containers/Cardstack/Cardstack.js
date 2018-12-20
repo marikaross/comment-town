@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import './Cardstack.css';
 
 export class Cardstack extends Component {
-
+  
   
   render() {
     const mockData = {
