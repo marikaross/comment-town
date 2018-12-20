@@ -11,8 +11,15 @@ export default (props) => {
   }
 
   return (
-    <p className={className}>{props.text}</p>
-  )
-    
+      <div className={className}>
+        <p>{props.text}</p>
+        <button>comment</button>
+      </div>
+    )
+  
 
 }
+
+//where should lesson comments go? top? bottom?
+//should depth-1 comments have comment button? or just card?
+//
